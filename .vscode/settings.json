@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "ui.h": "c",
+        "functional": "cpp",
+        "*.tcc": "cpp"
+    }
+}
